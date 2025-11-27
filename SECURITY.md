@@ -1,1 +1,1 @@
-Please report any security issues to security@trufflesec.com and include `trufflehog` in the subject
+my pgp key is not submitted why cna you explain why . 
